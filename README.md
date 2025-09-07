@@ -14,7 +14,7 @@
 - Built with **Next.js, React, AWS Lambdas, PostgreSQL, and OpenAI LLMs**.  
 - Features: Hybrid search (text + vector), AI job recommendations, RAG pipeline for knowledgebase creation.  
 
-### **Tryeasycat.com** | [Live Demo](https://tryeasycat.com)  
+### **Tryeasyeat.com** | [Live Demo](https://tryeasyeat.com)  
 **Food discovery for dietary restrictions (halal, vegan, etc.)**  
 - Developed with **React, PHP/Laravel, Next.js, and AWS Lambdas**.  
 - Features: Full-text search, venue filtering by dietary needs, web scraping for real-time data.  
